@@ -4,7 +4,7 @@ A fun and interactive Stone Paper Scissors game built using HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-🔗 [Click here](https://github.com/Anshi-G/Stone-Paper-Scissors.git)
+🔗 [Click here](https://https://anshi-g.github.io/Stone-Paper-Scissors/)
 
 ## 📌 Features
 
@@ -23,6 +23,10 @@ A fun and interactive Stone Paper Scissors game built using HTML, CSS, and JavaS
 1. Choose Stone, Paper, or Scissors
 2. Computer will generate a random choice
 3. Winner will be displayed instantly
+
+## 📸 Screenshot
+
+![Game Screenshot](Screenshot.png)
 
 ## 🙋‍♀️ Author
 
